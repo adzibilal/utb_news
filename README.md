@@ -4,6 +4,8 @@ Projek ini dibuat sebagai bagian dari tugas Ujian Tengah Semester (UTS) untuk ma
 Dosen: Ibu Nova Agustina
 Mahasiswa: Adzi Bilal M H - TIF 222 K - 22552011164
 
+Demo Video : https://youtu.be/rgeOF359AdE
+
 ## Deskripsi
 Projek ini adalah sebuah aplikasi berita sederhana yang menampilkan daftar berita dari berbagai sumber. Aplikasi ini menggunakan Retrofit untuk mengambil data dari API berita, dan menampilkannya dalam bentuk daftar menggunakan RecyclerView.
 
